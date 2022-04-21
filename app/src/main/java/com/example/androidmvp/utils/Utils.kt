@@ -1,4 +1,4 @@
-package com.example.androidmvc.utils
+package com.example.androidmvp.utils
 
 import android.content.Context
 import android.content.DialogInterface

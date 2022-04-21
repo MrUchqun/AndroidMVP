@@ -1,6 +1,6 @@
-package com.example.androidmvc.network.service
+package com.example.androidmvp.network.service
 
-import com.example.androidmvc.model.Post
+import com.example.androidmvp.model.Post
 import retrofit2.Call
 import retrofit2.http.*
 

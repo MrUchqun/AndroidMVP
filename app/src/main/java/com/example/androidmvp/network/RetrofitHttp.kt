@@ -1,6 +1,6 @@
-package com.example.androidmvc.network
+package com.example.androidmvp.network
 
-import com.example.androidmvc.network.service.PostService
+import com.example.androidmvp.network.service.PostService
 import retrofit2.*
 import retrofit2.converter.gson.GsonConverterFactory
 
